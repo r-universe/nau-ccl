@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "SPARSEMODr"]
+	path = SPARSEMODr
+	url = https://github.com/nau-ccl/sparsemodr
+	shallow = true
+	registered = true
